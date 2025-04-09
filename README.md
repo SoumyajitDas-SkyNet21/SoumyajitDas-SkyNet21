@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoumyajitDas-SkyNet21
-- 👀 I’m interested in Cloud Computing,Dev Ops,Data Science, Machine Learning, Artificial Intelligence.
+- 👀 I’m Data Science, Machine Learning, Artificial Intelligence.
 - 🌱 I’m currently learning Data Science, Machine Learning 
 - 💞️ I’m looking to collaborate on Machine Learning Projects 
 - 📫 How to reach me ...
